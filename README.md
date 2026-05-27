@@ -1,0 +1,2 @@
+# Restaurant-Analytics-Dashboard-Interactive-Dashboard-Creation-using-Power-BI-
+I developed a Restaurant Analytics Dashboard during my internship at Cognifyz Technologies using Power BI to analyze restaurant data and generate business insights. The dashboard visualizes restaurant ratings, cuisines, price ranges, online delivery trends, customer votes, and global restaurant distribution using interactive charts and KPIs.
